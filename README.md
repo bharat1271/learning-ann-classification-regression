@@ -47,4 +47,4 @@ This project was implemented as part of a structured Deep Learning course and re
 ## Live Demo
 
 Streamlit App:
-[https://your-app-url.streamlit.app](https://churn-prediction-ann-2026.streamlit.app/)
+[Customer Churn Prediction](https://churn-prediction-ann-2026.streamlit.app/)

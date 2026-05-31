@@ -43,3 +43,8 @@ This project was built as part of my Deep Learning learning journey to understan
 
 This project was implemented as part of a structured Deep Learning course and recreated independently to reinforce concepts related to ANN model development, preprocessing pipelines, and deployment workflows.
 
+
+## Live Demo
+
+Streamlit App:
+[https://your-app-url.streamlit.app](https://churn-prediction-ann-2026.streamlit.app/)
